@@ -24,8 +24,9 @@ The Cat API Wallpapers - это приложение для Android, котор�
 3. Запустите приложение на эмуляторе или физическом устройстве.
 
 ## Снимки экрана
-![Screenshot 1](screenshots/screenshot_1.png)
-![Screenshot 2](screenshots/screenshot_2.png)
+![Screenshot 1](screenshot_1.png)
+![Screenshot 2](screenshot_2.png)
+![Screenshot 3](screenshot_3.png)
 
 ## Лицензия
 [MIT License](LICENSE)
