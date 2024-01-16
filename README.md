@@ -1,6 +1,6 @@
 # The Cat API Wallpapers
 
-![App Screenshots](screenshots/thecatapiogo.png)
+![App Screenshots](thecatapiogo.png)
 
 ## О проекте
 The Cat API Wallpapers - это приложение для Android, которое предоставляет случайные фотографии котов для использования в качестве обоев на вашем устройстве.
